@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProgram", "TestProgram\TestProgram.csproj", "{B231890C-E70B-411E-9DCB-25EEFC014656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeFieldAccessGen", "SerializeFieldAccessGen\SerializeFieldAccessGen.csproj", "{0450B906-82E7-4991-B646-CEA5950F9049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B231890C-E70B-411E-9DCB-25EEFC014656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B231890C-E70B-411E-9DCB-25EEFC014656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B231890C-E70B-411E-9DCB-25EEFC014656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B231890C-E70B-411E-9DCB-25EEFC014656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0450B906-82E7-4991-B646-CEA5950F9049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0450B906-82E7-4991-B646-CEA5950F9049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0450B906-82E7-4991-B646-CEA5950F9049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0450B906-82E7-4991-B646-CEA5950F9049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
